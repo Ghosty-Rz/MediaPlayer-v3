@@ -1,4 +1,7 @@
 # MediaPlayer-v3
 
-+ A class project done during summer 2022 : we had to create a Media Player called DJ2 that can play music
-+ Built using Gradle
+DJ2: A class project done during summer 2022 
+
+Designed and developed a media player in Java using the Gradle build tool that can play any music file in .wav format.
+Designed and developed its GUI as well
+
